@@ -6,5 +6,7 @@
 Further, tested emotions is used to feed into existing recommendation engine to make mood based personalised contents.
 
 * Training Data : https://drive.google.com/file/d/1iyh_kLU5GdXKys_TAgIYpo59Vt7PC3r-/view
+  
+* Architecture : https://github.com/souvikroy/emotion_detection_movie/blob/main/ViT_emotion_arch.png
 
 ** Google Brain's ViT is a transformer encoder (like BERT)
